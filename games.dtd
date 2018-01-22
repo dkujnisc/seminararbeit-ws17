@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!ELEMENT games (game*)>
-    <!ELEMENT game (gamename, gameconsole, gameyear, gamepublisher, gamemode, gamegenre)>
-         <!ELEMENT gamename (#PCDATA)>
-         <!ELEMENT gameconsole (#PCDATA)>
-         <!ELEMENT gameyear (#PCDATA)>
-         <!ELEMENT gamepublisher (#PCDATA)>
-         <!ELEMENT gamemode (#PCDATA)>
-         <!ELEMENT gamegenre (#PCDATA)>
